@@ -15,6 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.1",
     "ajv": "^6.5.3",
+    "markdown-it": "^8.4.2",
     "nuxt": "^1.0.0",
     "nuxtent": "^1.4.1"
   },
