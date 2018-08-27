@@ -19,7 +19,6 @@ module.exports = {
   loading: { color: '#3B8070' },
   modules: [
     'nuxtent',
-    '@nuxtjs/axios'
   ],
   /*
   ** Build configuration
